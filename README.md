@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{https://https://edie-homepage-react.netlify.app}">
+    <a href="https://powel-portfolio-master.netlify.app}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/K9wpmY9WDPq1ie3qVWAj}">
+    <a href="https://devchallenges.io/solutions/7jijb1mOLS293VYuk7zz}">
       Solution
     </a>
     <span> | </span>
