@@ -30,15 +30,17 @@
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
-<!-- OVERVIEW -->
+<img width="140" alt="2023-03-24 (2)" src="https://user-images.githubusercontent.com/94329479/227411753-f8c4f945-ce1d-4eee-985e-ae6ee7ca4249.png">
 
- <img width="169" align="center" alt="edie1" src="https://user-images.githubusercontent.com/94329479/224600535-1f27d3bd-7107-4c8f-b447-b290a61345b4.png">
+<img width="271" alt="2023-03-24 (1)" src="https://user-images.githubusercontent.com/94329479/227411788-c7225d2f-ddb4-4bcb-88e5-700be4f02260.png">
 
-<img width="938" alt="eddie2" src="https://user-images.githubusercontent.com/94329479/224600648-f946bb0a-8d98-4fa8-b32d-78525c2ceb26.png">
+-- OVERVIEW -->
+
 
 - You can find the demo on netlify
 - I learned how a developer could adopt flexbox and grid on the same projects. These projects help me a lot to think about how to place my HTML codes correctly.
 - I gain a lot of experience using Tailwind CSS and React to build this awesome portfoilio page.
+- This projects gave me lots of confidence in working with react components and icons
 
 ### Built With
 
