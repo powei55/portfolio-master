@@ -12,7 +12,7 @@ const Project = () => {
         
         <article className=' w-full mt-5 grid grid-cols-1 sm:grid-cols-2  md:grid-cols-3 lg:gap-[3em] mb-10 '>
             {projectData.map(item => {
-                const {title, info, image} = item
+                const {title, info, image,link,code} = item
 
                 return (
                     <div className='flex flex-col  w-full mt-5  bg-[#ffffff] p-2 sm:w-[240px] lg:w-[300px] shadow-lg rounded-[10px]'>
@@ -33,8 +33,8 @@ const Project = () => {
                             </div>
         
                             <div className='mb-5'>
-                                <a href="https://my-recipe-blog.netlify.app" className='text-[.6rem] text-[#2f80ed] border-2 py-2 px-5 rounded-lg mr-5 hover:bg-[#2F80ED] hover:text-[#ffffff]'>Demo</a>
-                                <a href="https://my-recipe-blog.netlify.app" className='text-[.6rem] text-[#2f80ed] border-2 py-2 px-5 rounded-lg mr-5 hover:bg-[#2F80ED] hover:text-[#ffffff]'>Code</a>
+                                <a href={link} target='_blank' className='text-[.6rem] text-[#2f80ed] border-2 py-2 px-5 rounded-lg mr-5 hover:bg-[#2F80ED] hover:text-[#ffffff]' rel="noreferrer">Demo</a>
+                                <a href={code} target='_blank' className='text-[.6rem] text-[#2f80ed] border-2 py-2 px-5 rounded-lg mr-5 hover:bg-[#2F80ED] hover:text-[#ffffff]' rel="noreferrer">Code</a>
                             </div>
                         </div>
                 </div>

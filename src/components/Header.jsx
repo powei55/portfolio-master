@@ -16,7 +16,7 @@ const Header = () => {
             <div className='flex flex-col ml-6 md:m-0'>
                 <div className='flex flex-col md:items-center lg:flex-row lg:justify-between lg:text-left '>
                     <div className='lg:mt-[-3.2rem] flex flex-col'>
-                        <h1 className='text-[1rem] sm:text-[1.5rem] font-bold lg:text-[1.5rem]'>Ikechukwu Mathias</h1>
+                        <h1 className='text-[1rem] sm:text-[1.5rem] font-bold lg:text-[1.5rem]'>Ikechukwu Powei Mathias</h1>
                         <span className='text-[#828282] text-[1.1rem]font-semi-bold'>Front end developer</span>
                     </div>
                    
@@ -34,7 +34,7 @@ const Header = () => {
                 </div>
                 <div className='my-5'>
                     <p className='mb-5 text-[#828282] leading-5 tracking-wider'>Self-motivated developer, who is willing to learn and create outstanding UI applications. </p>
-                    <p className=' text-[#828282] leading-5 tracking-wider'>Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.</p>
+                    <p className=' text-[#828282] leading-5 tracking-wider'>I will help you create a top-notch website for your brand/business that will bring about traffic!</p>
                 </div>
                 
             </div>
